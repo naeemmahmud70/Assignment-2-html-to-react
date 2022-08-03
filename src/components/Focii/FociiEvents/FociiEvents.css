@@ -1,0 +1,12 @@
+.learn-more-btn{
+    border: 0;
+    border-radius: 7px;
+    padding: 4px 30px;
+    color: #337ab7;
+    background: none;
+    font-weight: bolder;
+    font-size: larger;
+    box-shadow: 1px 4px 5px 4px #265b97;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}

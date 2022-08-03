@@ -1,0 +1,38 @@
+.navbar-bg {
+    background: linear-gradient(to left, #212121, #292929, #1c1c1c);
+    height: 70px;
+}
+
+.brand-image {
+    height: 55px;
+    width: 55px;
+}
+
+.navItem {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.nav-ui-items {
+    width: 35%;
+}
+
+.demo-btn {
+    border: 0;
+    border-radius: 5px;
+    padding: 8px 12px;
+    color: #333;
+    background-color: #fff;
+}
+
+/* #hide-dropdown-nav {
+    display: none;
+    position: absolute;
+    background-color: #1c1c1c;
+    display: none;
+}
+
+.homeTab :hover #hide-dropdown-nav {
+   display: block!important;
+} */

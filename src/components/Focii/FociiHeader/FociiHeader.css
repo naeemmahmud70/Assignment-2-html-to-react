@@ -1,0 +1,39 @@
+.focii-bg {
+    background: linear-gradient(to left, #212121, #292929, #1c1c1c);
+}
+
+.header-heading {
+    font-size: 3rem;
+    color: rgba(255, 255, 255, 0.993);
+    padding-top: 3rem;
+}
+
+.header-description {
+    color: rgba(255, 255, 255, 0.871);
+    padding-top: 2rem;
+}
+
+.know-more-btn {
+    border: 0;
+    border-radius: 7px;
+    padding: 4px 40px;
+    color: #337ab7;
+    background: none;
+    font-weight: bolder;
+    font-size: larger;
+    box-shadow: 1px 4px 5px 4px #265b97;
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+}
+
+.focii-header-bg {
+    background-image: url("https://braina.live/images/product-bg.png");
+    height: 38rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: bottom;
+}
+.header-img{
+    height: 34rem;
+    /* width: 75%; */
+}
